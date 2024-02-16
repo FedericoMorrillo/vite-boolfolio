@@ -20,7 +20,7 @@ export default {
             <p> descrizione:{{ project.description }}</p>
             <div class="d-flex justify-content-between">
                 <div>
-                    codice: {{ project.code }}
+                    tipo: {{ project.type.title }}
                 </div>
                 <div>
                     ultimo commit: {{ project.last_commit }}
