@@ -19,7 +19,6 @@ export default {
     AppHeader,
     AppMain,
     AppFooter,
-
   },
   methods: {
     getprojects() {
