@@ -8,7 +8,7 @@ export default {
 
 <!--html-->
 <template>
-    <header class="box py-3">
+    <footer class="box py-3">
 
         <div class="container d-flex justify-content-between">
             <!--logo-->
@@ -20,13 +20,13 @@ export default {
 
         </div>
 
-    </header>
+    </footer>
 </template>
 <!--/html-->
 
 <!--scss-->
 <style scoped>
-header {
+footer {
     background-color: black;
 
 }
